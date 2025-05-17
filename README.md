@@ -14,7 +14,7 @@
 ## 🚀 Features
 
 - 🎬 Movie Downloads (Cinesubz & more)  
-- 📥 YouTube Downloader  
+- 📥 All-in-One Downloader
 - 🤖 Auto-Reply & Stickers  
 - ⚙️ Group Tools & Admin Features  
 - 🌐 MongoDB + Baileys Multi-Device Support  
@@ -26,7 +26,7 @@
 
 <p align="center">
   <a href="https://whatsapp.com/channel/0029Vb5urgj7z4kfTgSlME16/100">
-    <img src="https://img.shields.io/badge/📢 Join WhatsApp Channel-green?style=for-the-badge" />
+    <img src="https://img.shields.io/badge/YML Code-green?style=for-the-badge" />
   </a>
   <a href="https://wa.me/94757050022">
     <img src="https://img.shields.io/badge/👤 Message Owner-blue?style=for-the-badge" />
